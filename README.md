@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ahmed, usually called Happy.
 - 👀 I’m interested in software engineering, gaming, some astronomy and some history
 - 🌱 I’m currently learning Angular
-- 💞️ I’m looking to collaborate on any C#/Java/C++ repositories
+- 💞️ I’m looking to collaborate on any JavaScript/TypeScript repositories
 - 📫 How to reach me on [Facebook](https://www.facebook.com/ahmed.m.said.ams), [LinkedIn](https://www.linkedin.com/in/ahmed-said-969941154/)
 
 <!---
